@@ -1,7 +1,8 @@
-### Hi there 👋
+### <h1 align ="center">👋 Hi, I'm Mateo Martínez</h1>
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 </div>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=mateomartinezch&show_icons=true&theme=cobalt&title_color=adbac7&text_color=adbac7&bg_color=22272e&locale=en&layout=compact" alt="mateomartinezch" /></p>
 <!--
 **MateoMartinezCh/MateoMartinezCh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
